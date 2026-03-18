@@ -305,10 +305,6 @@ Sage supports multiple LLM providers:
 
 If API Key is not configured or the call fails, the framework automatically falls back to mock mode to ensure functionality remains available.
 
-## 📄 License
-
-This project is for learning and research purposes only.
-
 ## 🤝 Contributing
 
 Issues and Pull Requests are welcome!
