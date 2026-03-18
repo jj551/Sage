@@ -301,11 +301,6 @@ Sage supports multiple LLM providers:
    SAGE_MODEL=llama3
    ```
 
-3. **Test configuration**
-   ```bash
-   python3 test_llm_integration.py
-   ```
-
 ### Fallback Mechanism
 
 If API Key is not configured or the call fails, the framework automatically falls back to mock mode to ensure functionality remains available.
